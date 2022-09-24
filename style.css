@@ -223,6 +223,11 @@ nav {
   color: #070707;
 }
 
+.logo-about {
+  width: 100px;
+  height: 70px;
+}
+
 .fifth-heading {
   margin-left: 35px;
   margin-top: 9px;
@@ -242,6 +247,13 @@ nav {
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
+}
+
+.about-page {
+  height: 500px;
+  text-align: center;
+
+  /* padding: 100px; */
 }
 
 #main-program {
@@ -475,6 +487,16 @@ a:hover {
   text-align: center;
 }
 
+.about-2 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 10px;
+  align-items: center;
+  height: 300px;
+  margin-top: 100px;
+}
+
 .ev-imag {
   display: flex;
   flex-direction: column;
@@ -634,10 +656,29 @@ a:hover {
     display: none;
   }
 
+  .about-page {
+    padding: 70px 250px;
+    height: 700px;
+  }
+
+  .about-2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    align-items: center;
+    height: 300px;
+  }
+
   .logo-1 {
     height: 65px;
     width: 75px;
     align-items: center;
     margin-left: 40px;
+  }
+
+  .logo-about {
+    width: 200px;
+    height: 150px;
   }
 }
