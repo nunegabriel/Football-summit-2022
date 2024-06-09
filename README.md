@@ -20,8 +20,8 @@
 ## Live Demo
 - https://nunegabriel.github.io/Football-summit-2022/
 
-## Video Link
-- https://www.loom.com/share/368aa0bc49404565ae98d559e4f80012
+<!--## Video Link
+- https://www.loom.com/share/368aa0bc49404565ae98d559e4f80012 -->
 
 ## Authors
 
